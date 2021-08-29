@@ -10,7 +10,7 @@ Please make sure you have executed the following commands before running the scr
 pip install shodan
 shodan init <Your API Key>
 ```
-Which can be found here: [https://account.shodan.io/](https://account.shodan.io/)
+(Which can be found here: [https://account.shodan.io/](https://account.shodan.io/))
 
 And that the script has executable priviledges:
 ```
