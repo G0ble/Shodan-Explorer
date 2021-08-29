@@ -28,7 +28,7 @@ function helpPanel(){
 }
 
 #Banner
-function Banner(){
+function banner(){
 	clear
 	printf ${rC}
 	figlet -w 100 Shodan Explorer
@@ -79,7 +79,7 @@ done
 if [ $parameter_counter -ne 3 ]; then
 	helpPanel
 else
-	Banner
+	banner
 	startSearch
 	tput cnorm
 fi
