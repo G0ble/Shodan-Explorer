@@ -4,3 +4,12 @@ This script automates searching with Shodan.io for IoT devices and creates a tex
 Use: ./Shodan-Explorer.sh -q "search query" -l "limit results" -f "filename"
 
 # Instructions
+Please make sure you have executed the following commands before running the script:
+```
+pip install shodan
+shodan init <Your API Key>
+```
+And that the script has executable priviledges:
+```
+chmod -x Shodan-Explorer.sh
+```
