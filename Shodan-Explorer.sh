@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author G0ble
+# Author G0ble 
 
 #Colours
 grC="\e[0;32m\033[1m" #greenColour
