@@ -11,6 +11,7 @@ pip install shodan
 shodan init <Your API Key>
 ```
 Which can be found here: [https://account.shodan.io/](https://account.shodan.io/)
+
 And that the script has executable priviledges:
 ```
 chmod -x Shodan-Explorer.sh
