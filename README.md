@@ -15,5 +15,5 @@ shodan init <Your API Key>
 
 And that the script has executable priviledges:
 ```
-chmod -x Shodan-Explorer.sh
+chmod +x Shodan-Explorer.sh
 ```
